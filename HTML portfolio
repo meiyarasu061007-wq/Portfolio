@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Professional portfolio website for a Software Developer and AI & ML student showcasing skills, resume, coding profiles, and contact information." />
+  <meta name="keywords" content="portfolio, software developer, AI, machine learning, HTML5, MySQL, Git, Python, C++, Java" />
+  <meta name="author" content="Meiyarasu Saravanan" />
+  <title>Meiyarasu  | Portfolio</title>
+</head>
+<body>
+
+  <header id="home">
+    <h1>Meiyarasu</h1>
+    <p>Aspiring Software Developer | AI &amp; ML Enthusiast</p>
+    <p>Building practical solutions through code, data, and continuous learning.</p>
+
+   
+
+  <main>
+    <section aria-labelledby="hero-heading">
+      <h2 id="hero-heading">Welcome to My Portfolio</h2>
+      <p>I am a Software Developer and AI &amp; ML student who enjoys creating clean, useful, and efficient digital solutions.</p>
+      <p>My career objective is to grow as a strong technical professional by building real-world projects, improving problem-solving skills, and contributing to innovative teams.</p>
+      <blockquote>
+        
+      </blockquote>
+
+      <p>
+        <a href="#about">About</a> |
+        <a href="#skills">Skills</a> |
+        <a href="#resume">Resume</a> |
+        <a href="#contact">Contact</a>
+      </p>
+    </section>
+
+    <section id="about" aria-labelledby="about-heading">
+      <h2 id="about-heading">About Me</h2>
+
+      <p>
+        I am Meiyarasu , an enthusiastic learner with a strong interest in software development, artificial intelligence, and machine learning. I enjoy exploring how technology can solve practical problems and improve everyday experiences.
+      </p>
+
+      <p>
+        My educational background has helped me develop a solid foundation in programming, logic building, and technical concepts. I am continuously strengthening my knowledge through academic learning, hands-on practice, and project development.
+      </p>
+
+      <p>
+        My career goal is to become a skilled software developer with the ability to work on intelligent systems.
+      </p>
+
+      <p>
+        I am especially interested in programming, problem solving, and continuous learning. I enjoy writing code, debugging challenges, and understanding how systems work behind the scenes.
+      </p>
+
+      <p>
+        My growing interest in AI and machine learning motivates me to study algorithms, data patterns, and intelligent automation. 
+      </p>
+    </section>
+
+    <section id="skills" aria-labelledby="skills-heading">
+      <h2 id="skills-heading">Skills</h2>
+
+      <h3>Programming Languages</h3>
+      <ul>
+        <li>C</li>
+        <li>HTML</li>
+        <li>Java</li>
+        
+      </ul>
+
+      <h3>Web Technologies</h3>
+      <ul>
+        <li>HTML</li>
+      </ul>
+
+      <h3>Database</h3>
+      <ul>
+        <li>MySQL</li>
+      </ul>
+
+     
+       
+      </ul>
+
+      <h3>Technologies Learning</h3>
+      <ul>
+        
+        <li>Machine Learning</li>
+        <li>Web Development</li>
+      </ul>
+    </section>
+
+    <section id="resume" aria-labelledby="resume-heading">
+      <h2 id="resume-heading">Download My Resume</h2>
+      <p>
+        My resume provides a concise summary of my education, technical skills, certifications, projects, internship experience, and contact information.
+      </p>
+      <p>
+        <a href="resume.pdf" download>Download Resume</a>
+      </p>
+      <p>
+        The resume contains: Education, Skills, Certifications, Projects, Internship, and Contact Information.
+      </p>
+    </section>
+
+    <section id="coding-profiles" aria-labelledby="coding-heading">
+      <h2 id="coding-heading">Coding Profiles</h2>
+      <p>These are my coding practice and problem-solving platforms.</p>
+      <ul>
+              <li><a href="https://leetcode.com/" target="_blank" rel="noopener noreferrer">LeetCode</a></li>
+     
+        <li><a href="https://www.hackerrank.com/" target="_blank" rel="noopener noreferrer">HackerRank</a></li>
+   
+       
+      </ul>
+    </section>
+
+    <section id="professional-profiles" aria-labelledby="professional-heading">
+      <h2 id="professional-heading">Professional Profiles</h2>
+      <p>These links represent my professional online presence.</p>
+      <ul>
+        <li><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+        <li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+        <li><a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+      </ul>
+    </section>
+
+    <section id="contact" aria-labelledby="contact-heading">
+      <h2 id="contact-heading">Contact</h2>
+      <p>Email: <a href="mailto:meiyarasu@example.com">meiyarasu061007@gmail.com</a></p>
+      <p>Location: Dharmapuri,Tamilnadu, India</p>
+      
+    </section>
+  </main>
+
+  
+
+</body>
+</html>
